@@ -13,7 +13,7 @@ if (rootElem) {
   const root = ReactDOM.createRoot(rootElem)
 
   root.render(
-    <Router>
+    <Router basename='/furniture-store'>
       <ProductsProvider>
         <FilterProvider>
           <CartProvider>

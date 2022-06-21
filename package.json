@@ -2,7 +2,7 @@
   "name": "store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://artem-marchenko.github.io/furniture-store",
+  "homepage": "https://artem-marchenko.github.io/",
   "dependencies": {
     "@auth0/auth0-react": "^1.2.0",
     "@stripe/react-stripe-js": "^1.1.2",
@@ -23,11 +23,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "netlify": "netlify dev",
-    "dev": "netlify dev"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
