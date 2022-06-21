@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/furniture-store/static/css/main.10765d72.css",
-    "main.js": "/furniture-store/static/js/main.e320c7c1.js",
+    "main.js": "/furniture-store/static/js/main.b28c9f6f.js",
     "static/media/hero-bcg.jpeg": "/furniture-store/static/media/hero-bcg.a876f19f6786a3aca992.jpeg",
     "static/media/hero-bcg-2.jpeg": "/furniture-store/static/media/hero-bcg-2.789918645915c8acb36f.jpeg",
     "static/media/logo.png": "/furniture-store/static/media/logo.cd7a6bf8846bce89dd66.png",
     "index.html": "/furniture-store/index.html",
     "main.10765d72.css.map": "/furniture-store/static/css/main.10765d72.css.map",
-    "main.e320c7c1.js.map": "/furniture-store/static/js/main.e320c7c1.js.map"
+    "main.b28c9f6f.js.map": "/furniture-store/static/js/main.b28c9f6f.js.map"
   },
   "entrypoints": [
     "static/css/main.10765d72.css",
-    "static/js/main.e320c7c1.js"
+    "static/js/main.b28c9f6f.js"
   ]
 }
